@@ -28,6 +28,8 @@ Eclipse IDE
 ## Links:
 http://computer-database.gatling.io/computers
 
+## Time taken to complete
+After work- 2 evenings with kids :)
 
 ## Author
 Abhirami Narasimhan
